@@ -1,4 +1,5 @@
-# MarineSpillPredict-Deep-Learning-based-Oil-Spill-Detection-System
+# MarineSpillPredict: Deep Learning–Driven Oil Spill Detection and Coastal Impact Analysis
+
 ## 🚀 Key Features
 
 - Developed an **AI-based oil spill detection system** using **U-Net, DeepLabV3+, and a Hybrid Segmentation Model** for pixel-level segmentation of oil spills in **Synthetic Aperture Radar (SAR)** images.
